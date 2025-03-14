@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santhosh Reddy!
 
-##🚀 About Me
+## 🚀 About Me
 ---
 I am a Machine Learning Engineer, Data Scientist, and Web Developer with a passion for building intelligent systems and scalable applications. I love solving real-world problems using technology and data-driven approaches.
 
