@@ -40,6 +40,14 @@ I am a Machine Learning Engineer, Data Scientist, and Web Developer with a passi
 
 ---
 
+
+
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanthoshReddy-5&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+
 🚀 Let's build something amazing together!
 
 > Let’s connect and build something awesome together! 🚀
