@@ -80,3 +80,10 @@ Passionate about building [short description about what you love to do]. Current
 
 ---
 
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanthoshReddy-5&theme=github-compact)
+
+
+
+![Snake animation](https://github.com/SanthoshReddy-5/SanthoshReddy-5/blob/output/github-contribution-grid-snake.svg)
