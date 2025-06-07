@@ -1,6 +1,7 @@
 <div style="backgroundColor:#3a0ca3;">
-<h1 align="center" style="color:#3a0ca3;">Hi, I'm Velagala Jaya Naga Santhosh Reddy <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center" color="3a0ca3">Hi, I'm Velagala Jaya Naga Santhosh Reddy <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">Full Stack Developer | Data Scientist | AI/ML Enthusiast</h3>
+<p><span style="background-color: yellow;">This might not work on GitHub</span></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanthoshReddy-5&label=Profile%20views&color=&style=flat" alt="profile views" />
