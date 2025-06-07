@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Velagala Jaya Naga Santhosh Reddy</h1>
-<h3 align="center">A passionate Full Stack Developer | Open Source Contributor | AI/ML Enthusiast</h3>
+div style="background-color:#3a0ca3;">
+<h1 align="center">Hi, I'm Velagala Jaya Naga Santhosh Reddy <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h3 align="center">Full Stack Developer | Data Scientist | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanthoshReddy-5&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SanthoshReddy-5&label=Profile%20views&color=&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/SanthoshReddy-5?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
@@ -88,3 +89,5 @@
 🚀 Let's connect and build something amazing together!
 
 ---
+
+</div>
