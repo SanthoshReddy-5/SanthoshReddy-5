@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Data Scientist | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanthoshReddy-5&label=Profile%20views&color=&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SanthoshReddy-5&label=Profile%20views&color=03f401&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/SanthoshReddy-5?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
@@ -18,26 +18,16 @@
 
 ## 🚀 Tech Stack
 
-| 🖥️ Frontend         | ⚙️ Backend         |
-|---------------------|--------------------|
-| React.js            | Node.js            |
-| HTML5               | Express.js         |
-| CSS3                | MySQL              |
-| JavaScript          | MongoDB            |
-| Tailwind CSS        |                    |
-
-| 🤖 AI & ML           | 🧰 Tools & Others      |
-|----------------------|------------------------|
-| Python               | Git                    |
-| Pandas               | GitHub                 |
-| NumPy                | Java                   |
-| Matplotlib           | Postman                |
-| Scikit-learn         | VS Code                |
-| TensorFlow           | Netlify                |
-|                      | Android Studio         |
-|                      | Power BI               |
-
-
+| 🖥️ Frontend         | ⚙️ Backend        | 🤖 AI & ML   🧰 Tools & Others  
+|---------------------|--------------------||----------------------|------------------------|
+| React.js            | Node.js            || Python               | Git                    |
+| HTML5               | Express.js         || Pandas               | GitHub                 |
+| CSS3                | MySQL              || NumPy                | Java                   |
+| JavaScript          | MongoDB            || Matplotlib           | Postman                |
+| Tailwind CSS        |                    || Scikit-learn         | VS Code                |
+                                             | TensorFlow           | Netlify                |
+                                             |                      | Android Studio         |
+                                             |                      | Power BI               |
 
 
 ### 📊 GitHub Stats
