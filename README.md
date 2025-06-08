@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshReddy-5&show_icons=true&theme=radical" alt="GitHub Stats" width="350" height="250" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshReddy-5&theme=radical" alt="GitHub Streak" width="350" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshReddy-5&show_icons=true&theme=radical" alt="GitHub Stats" width="350" height="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshReddy-5&theme=radical" alt="GitHub Streak" width="350" height="400" />
 </p>
 
 ### 📫 Connect with Me
