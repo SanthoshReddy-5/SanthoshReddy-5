@@ -41,11 +41,11 @@
 
 ### 📫 Connect with Me
 
-🚀 Let's connect and build something amazing together!
-
 <p align="left">
   <a href="https://www.linkedin.com/in/santhosh-reddy-6a977a2ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:velagalas222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://santhoshreddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://www.instagram.com/santhosh_reddy_5" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" alt="Instagram" /></a>
 </p>
+
+🚀 Let's connect and build something amazing together!
