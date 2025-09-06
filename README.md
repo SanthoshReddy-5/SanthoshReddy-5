@@ -26,7 +26,6 @@
 
 ### 🎯 Hobbies & Interests
 
-  - Learning Generative AI
   - Building robust and scalable Web Applications
   - Coding challenges and Tech exploration
   - Reading Tech Blogs
