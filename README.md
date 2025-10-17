@@ -13,16 +13,16 @@
 
 ### 🚀 Tech Stack
 
-| 🖥️ Frontend         | ⚙️ Backend        | 🤖 AI & ML           | 🧰 Tools & Others     |
+| 🖥️ Frontend         | ⚙️ Backend         | 🤖 AI & ML           | 🧰 Tools & Platforms   |
 |---------------------|--------------------|----------------------|------------------------|
 | React.js            | Node.js            | Python               | Git                    |
 | HTML5               | Express.js         | Pandas               | GitHub                 |
 | CSS3                | MySQL              | NumPy                | Java                   |
 | JavaScript          | MongoDB            | Matplotlib           | Postman                |
-| Tailwind CSS        |                    | Scikit-learn         | VS Code                |
-| Flutter             |                    | TensorFlow           | Netlify                |
-|                     |                    |                      | Android Studio         |
-|                     |                    |                      | Power BI               |
+| Tailwind CSS        | Firebase           | Scikit-learn         | Visual Studio Code     |
+| Flutter             |                    | TensorFlow           | Figma                  |
+| Next.js             |                    | Langchain            | Android Studio         |
+| TypeScript          |                    | Pinecone             | AWS                    |
 
 ### 🎯 Hobbies & Interests
 
