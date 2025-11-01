@@ -1,5 +1,5 @@
 <h1 align="center" color="3a0ca3">Hi, I'm Velagala Jaya Naga Santhosh Reddy <img align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="55"/></h1>
-<h3 align="center">Full Stack Developer | Data Scientist | AI/ML Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Data Scientist | AI/ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanthoshReddy-5&label=Profile%20views&color=EC0A28&style=flat" alt="profile views" />
@@ -16,13 +16,13 @@
 | 🖥️ Frontend         | ⚙️ Backend         | 🤖 AI & ML           | 🧰 Tools & Platforms   |
 |---------------------|--------------------|----------------------|------------------------|
 | React.js            | Node.js            | Python               | Git                    |
-| HTML5               | Express.js         | Pandas               | GitHub                 |
-| CSS3                | MySQL              | NumPy                | Java                   |
+| HTML                | Express.js         | Pandas               | GitHub                 |
+| CSS                 | MySQL              | NumPy                | AWS                    |
 | JavaScript          | MongoDB            | Matplotlib           | Postman                |
 | Tailwind CSS        | Firebase           | Scikit-learn         | Visual Studio Code     |
-| Flutter             |                    | TensorFlow           | Figma                  |
-| Next.js             |                    | Langchain            | Android Studio         |
-| TypeScript          |                    | Pinecone             | AWS                    |
+| Next.js             | Java               | TensorFlow           | Figma                  |
+| TypeScript          |                    | Langchain            | Android Studio         |
+|                     |                    | Pinecone             |                        |
 
 ### 🎯 Hobbies & Interests
 
