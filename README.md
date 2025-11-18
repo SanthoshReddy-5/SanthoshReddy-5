@@ -6,12 +6,12 @@
   <img src="https://img.shields.io/github/followers/SanthoshReddy-5?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
-### 🚀 About Me
-  - 🎓 I'm currently pursuing Btech Final Year, **Computer Science and Engineering** with Specialization in **Data Science** at **Swarnandhra College of Engineering and Technology**.
-  - 💻 I have strong expertise in the MERN stack, enabling me to build robust and scalable web applications. Alongside, I am proficient in developing and integrating AI/ML models seamlessly into web application to enhance user experience and functionality.
-  - 🌱 I am currently learning **Generative AI** to deepen my expertise and explore advanced techniques for creating innovative, intelligent solutions that drive creativity and automation.
+### About Me
+  - I'm currently pursuing Btech Final Year, **Computer Science and Engineering** with Specialization in **Data Science** at **Swarnandhra College of Engineering and Technology**.
+  - I have strong expertise in the MERN stack, enabling me to build robust and scalable web applications. Alongside, I am proficient in developing and integrating AI/ML models seamlessly into web application to enhance user experience and functionality.
+  - I am currently learning **Generative AI** to deepen my expertise and explore advanced techniques for creating innovative, intelligent solutions that drive creativity and automation.
 
-### 🚀 Tech Stack
+### Tech Stack
 
 | 🖥️ Frontend         | ⚙️ Backend         | 🤖 AI & ML           | 🧰 Tools & Platforms   |
 |---------------------|--------------------|----------------------|------------------------|
@@ -24,21 +24,21 @@
 | TypeScript          |                    | Langchain            | Android Studio         |
 |                     |                    | Pinecone             |                        |
 
-### 🎯 Hobbies & Interests
+### Hobbies & Interests
 
   - Building robust and scalable Web Applications
   - Coding challenges and Tech exploration
   - Reading Tech Blogs
   - Music, gaming, and travel
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanthoshReddy-5&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshReddy-5&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santhosh-reddy-6a977a2ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
