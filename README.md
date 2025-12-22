@@ -1,5 +1,5 @@
 <h1 align="center" color="3a0ca3">Hi, I'm Velagala Jaya Naga Santhosh Reddy <img align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="55"/></h1>
-<h3 align="center">Full Stack Developer | Data Scientist | AI/ML Engineer</h3>
+<h3 align="center">Full Stack Web Developer | Data Scientist | AI/ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanthoshReddy-5&label=Profile%20views&color=EC0A28&style=flat" alt="profile views" />
@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santhosh-reddy-6a977a2ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:velagalas222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:santhoshreddy0561@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://santhoshreddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://www.instagram.com/santhosh_reddy_5" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" alt="Instagram" /></a>
 </p>
