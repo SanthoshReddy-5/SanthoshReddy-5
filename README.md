@@ -13,30 +13,22 @@
 
 ### Tech Stack
 
-| 🖥️ Frontend         | ⚙️ Backend         | 🤖 AI & ML           | 🧰 Tools & Platforms   |
+| 🖥️ Frontend         | ⚙️ Backend        | 🤖 AI & ML           | 🧰 Tools & Platforms  |
 |---------------------|--------------------|----------------------|------------------------|
 | React.js            | Node.js            | Python               | Git                    |
 | HTML                | Express.js         | Pandas               | GitHub                 |
 | CSS                 | MySQL              | NumPy                | AWS                    |
 | JavaScript          | MongoDB            | Matplotlib           | Postman                |
 | Tailwind CSS        | Firebase           | Scikit-learn         | Visual Studio Code     |
-| Next.js             | Java               | TensorFlow           | Figma                  |
+| Next.js             |                    | TensorFlow           | Figma                  |
 | TypeScript          |                    | Langchain            | Android Studio         |
-|                     |                    | Pinecone             |                        |
+|                     |                    |                      |                        |
 
 ### Hobbies & Interests
 
-  - Building robust and scalable Web Applications
   - Coding challenges and Tech exploration
   - Reading Tech Blogs
-  - Music, gaming, and travel
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshReddy-5&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshReddy-5&theme=radical" alt="GitHub Streak" />
-</p>
+  - Music, gaming, and travelling
 
 ### Connect with Me
 
