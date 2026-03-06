@@ -36,6 +36,8 @@
   <a href="https://www.linkedin.com/in/santhosh-reddy5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:santhoshreddy0561@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://santhoshreddy.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/santhosh__reddy__5" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black" alt="LeetCode" /></a>
   <a href="https://www.instagram.com/santhosh_reddy_5" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" alt="Instagram" /></a>
 </p>
 
