@@ -7,7 +7,7 @@
 </p>
 
 ### About Me
-  - I'm currently pursuing B.Tech Final Year, **Computer Science and Engineering** with Specialization in **Data Science** at **Swarnandhra College of Engineering and Technology, Narsapur**.
+  - I recently completed my B.Tech in **Computer Science and Engineering** with a specialization in **Data Science** from **Swarnandhra College of Engineering and Technology, Narsapur**.
   - I have strong expertise in the MERN stack, enabling me to build robust and scalable web applications. Alongside, I am proficient in developing and integrating AI/ML models seamlessly into web application to enhance user experience and functionality.
   - I am currently learning **Generative AI** to deepen my expertise and explore advanced techniques for creating innovative, intelligent solutions that drive creativity and automation.
 
@@ -20,9 +20,9 @@
 | CSS                 | MySQL              | NumPy                | AWS                    |
 | JavaScript          | MongoDB            | Matplotlib           | Postman                |
 | Tailwind CSS        | Firebase           | Scikit-learn         | Visual Studio Code     |
-| Next.js             |                    | TensorFlow           | Figma                  |
-| TypeScript          |                    | Langchain            | Android Studio         |
-| Flutter             |                    | Streamlit            | Docker                 |
+| Next.js             |                    | TensorFlow           | Docker                 |
+| TypeScript          |                    | Langchain            | Jupyter Notebook       |
+| Flutter             |                    | Streamlit            | Jenkins                |
 
 ### Hobbies & Interests
 
