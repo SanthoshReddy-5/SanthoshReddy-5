@@ -26,9 +26,8 @@
 
 ### Hobbies & Interests
 
-  - Coding challenges and Tech exploration
-  - Reading Tech Blogs
-  - Music, gaming, and travelling
+  - Reading Tech Blogs and staying updated with AI and Software trends
+  - Listening to Music and Exploring new places
 
 ### Connect with Me
 
