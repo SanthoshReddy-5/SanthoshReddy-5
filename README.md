@@ -9,7 +9,7 @@
 ### About Me
   - I recently completed my B.Tech in **Computer Science and Engineering** with a specialization in **Data Science** from **Swarnandhra College of Engineering and Technology, Narsapur**.
   - I have strong knowledge of Agentic AI, including AI agents, agent orchestration, tool calling, RAG, memory, planning, reasoning, multi-agent systems, and autonomous workflows. I enjoy building intelligent AI systems that can reason, interact with tools, automate complex tasks, and solve real-world problems.
-  – I also have strong experience in Full Stack Development with the MERN Stack, building scalable and high-performance web applications. I am familiar with AWS cloud services and deployment, including deploying, managing, and scaling applications in the cloud while focusing on reliability, security, performance, and production readiness.
+  - I also have strong experience in Full Stack Development with the MERN Stack, building scalable and high-performance web applications. I am familiar with AWS cloud services and deployment, including deploying, managing, and scaling applications in the cloud while focusing on reliability, security, performance, and production readiness.
 
 ### Tech Stack
 
